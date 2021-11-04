@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-t-0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/a-t-0)
+
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiveminds&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@hiveminds) -->
 
 <!--
 **a-t-0/a-t-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
