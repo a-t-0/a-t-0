@@ -1,19 +1,17 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-t-0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/a-t-0)
-
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiveminds&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@hiveminds) -->
-
 <!--
 **a-t-0/a-t-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
+- 🤔 I’m looking for help with [Hiveminds](https://github.com/hiveminds) and [TruCol](https://trucol.io/protocol/)
+- :rocket: I'm currently focussed on improving repo quality ➡️ people come into a clean environment when they want to ride the wave 🏄! 
+  - [Spin up a GitLab server with a continuous integration runner](https://github.com/Simple-Setup/Self-host-GitLab-Server-and-Runner-CI), put build status badges on all your GitHub repositiories :white_check_mark:
+- 💬 If you like the work I do, feel free to support me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="./qr.png" alt="drawing" width="100"/>
+</p>
+<p align="center">
+  0xA03acADe99B60fee61C0F8Cbf0CEB2a90DD5915c<br>
+</p>
