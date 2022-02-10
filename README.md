@@ -6,6 +6,9 @@ Hi there✨!
 - 🤔 I’m looking for help with [Hiveminds](https://github.com/hiveminds) and [TruCol](https://trucol.io/protocol/)
 - :rocket: I'm currently focussed on improving repo quality ➡️ people come into a clean environment when they want to ride the wave 🏄! 
   - [Spin up a GitLab server with a continuous integration runner](https://github.com/Simple-Setup/Self-host-GitLab-Server-and-Runner-CI), put build status badges on all your GitHub repositiories :white_check_mark:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-t-0&show_icons=true&theme=radical&count_private=true)
+
 - 💬 If you like the work I do, feel free to support me: 
 
 
