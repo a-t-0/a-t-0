@@ -2,13 +2,15 @@
 **a-t-0/a-t-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![a-t-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-t-0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi there✨!
 - 🤔 I’m looking for help with [Hiveminds](https://github.com/hiveminds) and [TruCol](https://trucol.io/protocol/)
-- :rocket: I'm currently focussed on improving repo quality ➡️ people come into a clean environment when they want to ride the wave 🏄! 
-  - [Spin up a GitLab server with a continuous integration runner](https://github.com/Simple-Setup/Self-host-GitLab-Server-and-Runner-CI), put build status badges on all your GitHub repositiories :white_check_mark:
+- :rocket: I'm currently focussed on:
+  - self-hosting my calendar and taskwarrior [over tor](https://github.com/hiveminds/ssl4tor) via ([Nextcloud](https://github.com/hiveminds/collabora-online))
+  - improving repo quality by [self-hosting GitLab](https://github.com/Simple-Setup/Self-host-GitLab-Server-and-Runner-CI) over tor (for free, limitless selfhosted CI for GitHub).
 
-- 💬 If you like the work I do, feel free to support me: 
-
+- 💬 If you like the work I do, feel free to support me:
 
 <p align="center">
   <img src="./qr.png" alt="drawing" width="100"/>
