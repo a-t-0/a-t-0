@@ -10,11 +10,21 @@ Hi there✨!
   - self-hosting my calendar and taskwarrior [over tor](https://github.com/hiveminds/ssl4tor) via ([Nextcloud](https://github.com/hiveminds/collabora-online))
   - improving repo quality by [self-hosting GitLab](https://github.com/Simple-Setup/Self-host-GitLab-Server-and-Runner-CI) over tor (for free, limitless selfhosted CI for GitHub).
 
-- 💬 If you like the work I do, feel free to support me:
+- 💬 If you like the work I do, please feel free to support me
+  
+with Bitcoin:
+<p align="center">
+1Q9TWTturxdPYLgJwHCMFsDkzxaX1KDYCv<br>
+</p>
 
 <p align="center">
-  <img src="./qr.png" alt="drawing" width="100"/>
+  <img src="./btc_receive.png" alt="drawing" width="100"/>
+</p>
+
+Or Ethereum 
+<p align="center">
+0xA03acADe99B60fee61C0F8Cbf0CEB2a90DD5915c
 </p>
 <p align="center">
-  0xA03acADe99B60fee61C0F8Cbf0CEB2a90DD5915c<br>
+  <img src="./eth_receive.png" alt="drawing" width="100"/>
 </p>
