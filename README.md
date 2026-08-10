@@ -45,5 +45,3 @@ Hi there✨, feel free to read my prioritization🐣! Currently I work on:
 - To gain more experience with deployment and production ready fund management in adversarial environments.
 
 Feel free to have a look or pick up a small subtask💫
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=a-t-0&theme=radical)](https://git.io/streak-stats)
