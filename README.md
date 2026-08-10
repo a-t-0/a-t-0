@@ -1,9 +1,10 @@
 <!--
 **a-t-0/a-t-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 Hi there✨, feel free to read my prioritization🐣! Currently I work on:
 
-<img width="447" height="714" alt="image" src="https://github.com/user-attachments/assets/1c051585-eb69-40a8-83e8-a05215fd12fb" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c35a5857-22e2-4254-b43b-d6a86576c29b" />
 
 ### A. SelfPrivacy
 - Making SelfPrivacy [self-hostable, for free over tor](https://github.com/orgs/selfprivacy-over-alternative-nets/repositories) (and https on your own domain).
@@ -13,8 +14,8 @@ Hi there✨, feel free to read my prioritization🐣! Currently I work on:
 - Setting up self-hosted, privacy, friendly AI's to parse receipt images so that they get embedded into your hledger setup.
 - Ideally, I would like to set up collective training and/or inference of those receipt-image-parsing-AI modules using FHE.
 
-<img width="612" height="720" alt="image" src="https://github.com/user-attachments/assets/dcf45343-f656-4f37-9602-549a60666799" />
 
+<img width="1536" height="1024" alt="paralel" src="https://github.com/user-attachments/assets/28655082-84de-4e96-a9ac-e38143c4bf10" />
 
 ### A. CNC
 - Using a tactile-sensing glove to train an open source humanoid/robot arm to build [the CNC](https://ergonomic-keyboard.github.io/DIY-3-axis-CNC-machine/) that is able to build itself (with that humanoid/robot).
@@ -44,3 +45,5 @@ Hi there✨, feel free to read my prioritization🐣! Currently I work on:
 - To gain more experience with deployment and production ready fund management in adversarial environments.
 
 Feel free to have a look or pick up a small subtask💫
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=a-t-0&theme=radical)](https://git.io/streak-stats)
