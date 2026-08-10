@@ -2,7 +2,9 @@
 **a-t-0/a-t-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hi there✨, feel free to read my prioritization🐣! Currently I work on:
-## In Series
+
+<img width="447" height="714" alt="image" src="https://github.com/user-attachments/assets/1c051585-eb69-40a8-83e8-a05215fd12fb" />
+
 ### A. SelfPrivacy
 - Making SelfPrivacy [self-hostable, for free over tor](https://github.com/orgs/selfprivacy-over-alternative-nets/repositories) (and https on your own domain).
 
@@ -11,7 +13,9 @@ Hi there✨, feel free to read my prioritization🐣! Currently I work on:
 - Setting up self-hosted, privacy, friendly AI's to parse receipt images so that they get embedded into your hledger setup.
 - Ideally, I would like to set up collective training and/or inference of those receipt-image-parsing-AI modules using FHE.
 
-## In Parallel
+<img width="612" height="720" alt="image" src="https://github.com/user-attachments/assets/dcf45343-f656-4f37-9602-549a60666799" />
+
+
 ### A. CNC
 - Using a tactile-sensing glove to train an open source humanoid/robot arm to build [the CNC](https://ergonomic-keyboard.github.io/DIY-3-axis-CNC-machine/) that is able to build itself (with that humanoid/robot).
 - I am aware the open source CNC will probably not be able to build the hardware of the open source humanoid/robot.
@@ -40,5 +44,3 @@ Hi there✨, feel free to read my prioritization🐣! Currently I work on:
 - To gain more experience with deployment and production ready fund management in adversarial environments.
 
 Feel free to have a look or pick up a small subtask💫
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=a-t-0&theme=radical)](https://git.io/streak-stats)
